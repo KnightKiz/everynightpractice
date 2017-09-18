@@ -1,6 +1,4 @@
-# tenquestion
-
-> A Vue.js project
+# 每日十题，v1.0目前功能简单，日后再更新
 
 ## Build Setup
 
